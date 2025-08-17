@@ -108,9 +108,7 @@ nav a:hover {
 }
 
 
-.card {
-    
-    
+.card { 
     min-width: 250px;
     max-width: 350px;
     background-color: var(--color-secondary);
@@ -131,6 +129,7 @@ nav a:hover {
     color: var(--color-primary);
     margin-bottom: var(--space-xs);
     font-size: 1.2rem;
+    text-align: center;
 }
 
 .card p {
@@ -182,6 +181,7 @@ footer p {
     color: var(--color-secondary);
     margin-bottom: var(--space-xs);
     font-size: 1.2rem;
+    text-align: center;
 }
 
 .gallery p {
