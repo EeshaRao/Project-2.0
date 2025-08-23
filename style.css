@@ -158,8 +158,6 @@ footer p {
     gap: var(--space-md);
     margin-top: var(--space-md);
 }
-
-
 .gallery {
     min-width: 250px;
     max-width: 350px;
